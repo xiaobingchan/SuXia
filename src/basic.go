@@ -1,8 +1,8 @@
-package main
+package src
 
 import "fmt"
 
-func main() {
+func test() {
 	var hp int = 100
 	hp = 200
 	var a = 200
